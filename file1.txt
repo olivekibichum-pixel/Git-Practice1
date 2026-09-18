@@ -1,2 +1,3 @@
 Git tracks changes.
 Commit saves changes.
+Git saves versions.
