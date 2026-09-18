@@ -1,1 +1,2 @@
 GitHub hosts repositories.
+GitHub enables sharing.
